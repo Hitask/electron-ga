@@ -1,5 +1,5 @@
 {
-  "name": "electron-ga",
+  "name": "@hitask/electron-ga",
   "version": "1.0.6",
   "description": "Google Analytics client for Electron applications",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaystack/electron-ga.git"
+    "url": "https://github.com/HiTask/electron-ga.git"
   },
   "keywords": [
     "google",
