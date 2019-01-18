@@ -1,6 +1,6 @@
 {
   "name": "@hitask/electron-ga",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Google Analytics client for Electron applications",
   "main": "lib/index.js",
   "typings": "lib/index",
@@ -49,7 +49,7 @@
     "testEnvironment": "node"
   },
   "peerDependencies": {
-    "electron": "^3.0.0"
+    "electron": "^4.0.0"
   },
   "devDependencies": {
     "@types/jest": "^21.1.8",
